@@ -1,4 +1,4 @@
-# Parallel-Websit3
+# Parallel-Website
 
 ## Overview
 Parallel Website is a project aimed at creating a highly efficient and scalable website that utilizes parallel processing techniques. By leveraging parallel computing power, the website aims to deliver faster response times and enhanced performance.
